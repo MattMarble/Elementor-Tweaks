@@ -1,1 +1,20 @@
-
+{
+  "name": "elementor-tweaks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattMarble/Elementor-Tweaks.git"
+  },
+  "keywords": [],
+  "author": "Matt Holt",
+  "license": "MIT",
+  "homepage": "https://mattmarble.github.io/Elementor-Tweaks/",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
