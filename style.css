@@ -1,15 +1,14 @@
 h1 {
-  font-family: Sans-serif;
+  font-family: "Montserrat", Sans-serif;
 }
 html,
 body {
   background-color: black;
   color: white;
-  text-align: center;
 }
 pre code {
   background-color: #eee;
-  color: #999;
+  color: black;
   border: 1px solid #999;
   display: block;
   padding: 20px;
