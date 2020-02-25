@@ -9,8 +9,9 @@ body {
 }
 pre code {
   background-color: #eee;
-  color: #999
+  color: #999;
   border: 1px solid #999;
   display: block;
   padding: 20px;
+  text-align: left;
 }
