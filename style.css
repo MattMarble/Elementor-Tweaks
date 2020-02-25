@@ -14,3 +14,10 @@ pre code {
   padding: 20px;
   text-align: left;
 }
+#snippets {
+  display: flexbox;
+  flex-flow: row wrap;
+}
+.snippet {
+  width:50%;
+}
