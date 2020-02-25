@@ -13,13 +13,15 @@ pre code {
   display: block;
   padding: 20px;
   text-align: left;
+  overflow: auto;
 }
 #snippets {
-  display: flexbox;
+  display: flex;
   flex-flow: row wrap;
 }
 .snippet {
-  width: 50%;
+  width: 45%;
+  margin: 2.5%;
 }
 footer {
   text-align: center;
