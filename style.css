@@ -19,5 +19,17 @@ pre code {
   flex-flow: row wrap;
 }
 .snippet {
-  width:50%;
+  width: 50%;
+}
+footer {
+  text-align: center;
+  padding: 20px 0;
+  z-index: -1;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: purple;
+}
+footer a {
+  color: cyan;
 }
