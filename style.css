@@ -5,5 +5,11 @@ html,
 body {
   background-color: black;
   color: white;
-  text-align:center;
+  text-align: center;
+}
+pre code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
 }
